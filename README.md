@@ -4,6 +4,8 @@ AtliQ Grands a prominent player in the Indian hospitality industry with a two-de
 To address this we have provide data-driven insights to the Revenue team .
 **Project Overview**
 I have conducted a comprehensive analysis of data spanning three months: May, June, and July. This analysis involved the data sets dim_date, dim_room, dim_hotel, Fact_bookings, and Fact_aggregated_bookings.
+
+
 **Conclusion**
 In July we observed the highest occupancy rate at 66.97%, while Delhi registering the highest occupancy rate of 60.55%.
 Mumbai has demonstrated the highest revenue generation while weekend revenue surpassing weekdays at 2 billion compared to 1.69 billion on weekdays. Additionally May stands out as the month with the highest revenue of 0.58 billion.

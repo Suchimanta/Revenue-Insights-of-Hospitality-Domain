@@ -2,6 +2,9 @@
 **Problem Statement** 
 AtliQ Grands a prominent player in the Indian hospitality industry with a two-decade history, is facing a decline in market share and revenue within the luxury and business hotels sector.
 To address this we have provide data-driven insights to the Revenue team .
+
+
+
 **Project Overview**
 I have conducted a comprehensive analysis of data spanning three months: May, June, and July. This analysis involved the data sets dim_date, dim_room, dim_hotel, Fact_bookings, and Fact_aggregated_bookings.
 
